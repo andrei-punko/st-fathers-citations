@@ -1,1 +1,1 @@
-java -jar ./parser/target/citations-parser.jar citations.txt template.html index.html
+java -jar github-pages-parser.jar citations.txt template.html index.html
