@@ -35,8 +35,8 @@ public class CitationsParser {
                     }
                 } else {
                     // line is not blank
-                    if (line.startsWith("* ")) {
-                        line = "<b>" + line.replace("* ", "") + "</b>";
+                    if (line.startsWith("* ") || line.startsWith("- ")) {
+                        line = "<b>" + line.substring(2) + "</b>";
                     }
 
                     buffer += line + "</br>\n";
