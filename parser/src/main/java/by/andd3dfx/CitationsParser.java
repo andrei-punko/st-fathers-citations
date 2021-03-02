@@ -29,7 +29,7 @@ public class CitationsParser {
                     if (buffer.isBlank()) {
                         writer.write("\n");
                     } else {
-                        writer.write("<p>\n" + buffer + "</p>\n");
+                        writer.write("<p align=\"justify\">\n" + buffer + "</p>\n");
                         buffer = "";
                         continue;
                     }
@@ -46,7 +46,7 @@ public class CitationsParser {
 
             // Dump buffer content if it isn't empty
             if (!buffer.isBlank()) {
-                writer.write("<p>\n" + buffer + "</p>\n");
+                writer.write("<p align=\"justify\">\n" + buffer + "</p>\n");
             }
         } catch (IOException ioe) {
             ioe.printStackTrace();
