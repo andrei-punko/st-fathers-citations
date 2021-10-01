@@ -1,4 +1,5 @@
-java -jar github-pages-content-generator.jar citations.txt template.html index.html
+
+call generate.bat
 
 git add --all
 git commit -m "Add content"
