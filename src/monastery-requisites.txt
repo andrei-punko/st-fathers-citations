@@ -1,10 +1,10 @@
 
 ! Реквизиты монастырей
-** Платежные реквизиты монастырей Беларуси
+** Платежные реквизиты женских монастырей Беларуси
 
-Монастыри в деревнях и малых населенных пунктах редко посещаются паломниками, чем монастыри в городах, поэтому здесь список начинается с них.
+Монастыри в деревнях и малых населенных пунктах реже посещаются паломниками, чем монастыри в городах, поэтому данный список начинается с них:
 
-* Монастыри в деревнях
+** Монастыри в деревнях
 
 * Свято-Введенский cтавропигиальный женский монастырь, д. Богуши
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/stavropigialnye-monastyri-/svyato-vvedenskiy-stavropigialnyy-zhenskiy-monastyr-d-bogushi/
@@ -51,7 +51,7 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/novogrudska
 БИК AKBBBY2X
 Р/С BY71AKBB31350370000634100000
 
-* Монастыри в городах
+** Монастыри в городах
 
 * Спасо-Евфросиниевский cтавропигиальный женский монастырь, г. Полоцк
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/stavropigialnye-monastyri-/spaso-evfrosinievskiy-stavropigialnyy-zhenskiy-monastyr-v-g-polotske/
@@ -117,7 +117,7 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/turovskaya_
 БИК BAPBBY2X
 Р/С BY54 BAPB 3015 4339 0001 3000 0000
 
-* Монастыри в крупных городах
+** Монастыри в крупных городах
 
 * Свято-Рождество-Богородицкий cтавропигиальный женский монастырь, г. Гродно
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/stavropigialnye-monastyri-/svyato-rozhdestvo-bogoroditskiy-stavropigialnyy-zhenskiy-monastyr-g-grodno/
