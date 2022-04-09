@@ -14,13 +14,13 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/stavropigia
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/bobruyskaya_eparkhiya/svyato-voznesenskiy-barkolabovskiy-monastyr/
 УНН 700846180 
 БИК AKBBBY2X 
-Р/С BY42AKBB30150471674597000000
+Р/С BY42 AKBB 30150471674597000000
 
 * Женский монастырь в честь святой блаженной Ксении Петербургской, д. Барань
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/borisovskaya_eparkhiya/svyato-ksenievskiy-zhenskiy-monastyr-d-baran/
 УНП 601057528
 БИК BPSBBY2X
-Р/С BY79BPSB30151417630149330000
+Р/С BY79 BPSB 30151417630149330000
 
 * Женский монастырь в честь святого апостола Иоанна Богослова, д. Домашаны 
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/borisovskaya_eparkhiya/svyato-ioanno-bogoslovskiy-zhenskiy-monastyr-d-domashany/
@@ -31,25 +31,25 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/borisovskay
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/vitebskaya_eparkhiya/svyato-uspenskiy-zhenskiy-monastyr-d-sloboda/
 УНП 300988614
 БИК BPSBBY2X
-Р/С BY71BPSB30151450030159330000
+Р/С BY71 BPSB 30151450030159330000
 
 * Свято-Иоанно-Кормянский женский монастырь, д. Корма
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/gomelskaya_eparkhiya/svyato-ioanno-kormyanskiy-zhenskiy-monastyr-d-korma/
 УНП 400018264
 БИК BAPBBY2X
-Р/С BY62BAPB30152312700130000000 
+Р/С BY62 BAPB 30152312700130000000 
 
 * Свято-Успенский женский монастырь, д. Казимирово
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/gomelskaya_eparkhiya/svyato-uspenskiy-zhenskiy-monastyr-d-kazimirovo/
 УНП 400592495
 БИК AKBBBY2X
-Р/С BY64AKBB30150062300173200000
+Р/С BY64 AKBB 30150062300173200000
 
 * Свято-Амвросиевский женский монастырь, д. Русаково Слонимского района
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/novogrudskaya_eparkhiya/zhenskiy-monastyr-v-chest-prepodobnogo-amvrosiya-optinskogo-v-derevne-rusakovo-slonimskogo-rayona/
 УНП 500830001
 БИК AKBBBY2X
-Р/С BY71AKBB31350370000634100000
+Р/С BY71 AKBB 31350370000634100000
 
 *** Монастыри в городах
 
@@ -57,13 +57,13 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/novogrudska
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/stavropigialnye-monastyri-/spaso-evfrosinievskiy-stavropigialnyy-zhenskiy-monastyr-v-g-polotske/
 УНП 300330190
 БИК BLBBBY2X
-Р/С BY56BLBB30150300330190001001 
+Р/С BY56 BLBB 30150300330190001001 
 
 * Женский монастырь в честь святых Жен-Мироносиц, г. Бобруйск
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/bobruyskaya_eparkhiya/monastyr-svyatykh-zhen-mironosits-g-bobruysk/
 УНП 700846178
 БИК AKBBBY2X
-Р/С BY35AKBB30151090147827100000
+Р/С BY35 AKBB 30151090147827100000
 
 * Во имя Всемилостивого Спаса женский монастырь, г. Кобрин
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/brestskaya_eparkhiya/vo-imya-vsemilostivogo-spasa-zhenskiy-monastyr-g-kobrin/
@@ -73,38 +73,37 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/brestskaya_
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/vitebskaya_eparkhiya/svyato-uspenskiy-zhenskiy-monastyr-g-orsha/
 УНП 300053248
 БИК BLBBBY2X
-Р/С BY18BLBB30150300053248001001
+Р/С BY18 BLBB 30150300053248001001
 
 * Свято-Покровский женский монастырь, г. Толочин
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/vitebskaya_eparkhiya/svyato-pokrovskiy-zhenskiy-monastyr-g-tolochin/
 УНП 300977777
 БИК BAPBBY2X
-Р/С BY83BAPB30152182500120000000
+Р/С BY83 BAPB 30152182500120000000
 
 * Свято-Благовещенский женский монастырь, г. Слоним
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/novogrudskaya_eparkhiya/svyato-blagoveshchenskiy-zhenskiy-monastyr-g-slonim/
 УНП 500826051
 БИК BAPBBY2X
-Р/С BY02BAPB30154501700140000000
+Р/С BY02 BAPB 30154501700140000000
 
 * Свято-Варваринский женский монастырь, г. Пинск
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/pinskaya_eparkhiya/svyato-varvarinskiy-zhenskiy-monastyr-g-pinsk/
 УНП 200699783
 БИК PJCBBY2X
-Р/С BY20PJCB30155202191000000933
+Р/С BY20 PJCB 30155202191000000933
 
 * Свято-Михайловский Березвечский женский монастырь, г. Глубокое
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/polotskaya_eparkhiya/svyato-mikhaylovskiy-berezvechskiy-zhenskiy-monastyr-g-glubokoe/
 УНП 300978653
 БИК BAPBBY2X
-Р/С BY59BAPB30154714100420000000 (общемонастырский)
-Р/С BY24BAPB30154714100120000000 (строительство храма)
+Р/С BY59 BAPB 30154714100420000000
 
 * Свято-Пантелеимоновский женский монастырь, г. Браслав
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/polotskaya_eparkhiya/svyato-panteleimonovskiy-zhenskiy-monastyr-g-braslav/
 УНП 300984422
 БИК BAPBBY2X
-Р/С BY64 BAPB 3015 4612 4001 2000 0000
+Р/С BY64 BAPB 30154612400120000000
 
 * Женский монастырь в честь святой праведной Софии, княгини Слуцкой, г. Слуцк
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/slutskaya_eparkhiya/zhenskiy-monastyr-pravednoy-sofii-knyagini-slutskoy-g-slutsk/
@@ -115,7 +114,7 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/slutskaya_e
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/turovskaya_eparkhiya/svyato-pokrovskiy-zhenskiy-monastyr-g-khoyniki/
 УНП 401152983
 БИК BAPBBY2X
-Р/С BY54 BAPB 3015 4339 0001 3000 0000
+Р/С BY54 BAPB 30154339000130000000
 
 *** Монастыри в крупных городах
 
@@ -123,31 +122,31 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/turovskaya_
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/stavropigialnye-monastyri-/svyato-rozhdestvo-bogoroditskiy-stavropigialnyy-zhenskiy-monastyr-g-grodno/
 УНН 500228539
 БИК BLBBBY2X
-Р/С BY48 BLBB 3015 0500 2285 3900 1001
+Р/С BY48 BLBB 30150500228539001001
 
 * Свято-Рождество-Богородицкий женский монастырь, г. Брест
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/brestskaya_eparkhiya/svyato-rozhdestvo-bogoroditskiy-zhenskiy-monastyr-g-brest-/
 УНН 200945320
 БИК AKBBBY2X
-Р/С BY34AKBB30154814813001000000
+Р/С BY34 AKBB 30154814813001000000
  
 * Свято-Духов женский монастырь, г. Витебск
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/vitebskaya_eparkhiya/svyato-dukhov-zhenskiy-monastyr/
 УНП 300864293
 БИК TECNBY22
-Р/С BY28TECN30152126200000000010
+Р/С BY28 TECN 30152126200000000010
 
 * Свято-Тихвинский женский монастырь, г. Гомель
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/gomelskaya_eparkhiya/svyato-tikhvinskiy-zhenskiy-monastyr-g-gomel/
 УНП 400923554
 БИК BLBBBY2X
-Р/С BY09BLBB30150400923554001001
+Р/С BY09 BLBB 30150400923554001001
 
 * Свято-Никольский женский монастырь, г. Могилев
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/mogilevskaya_eparkhiya/svyato-nikolskiy-zhenskiy-monastyr-g-mogilev/
 УНП 700346341
 БИК BLBBBY2X
-Р/С BY30BLBB30150700346341001001
+Р/С BY30 BLBB 30150700346341001001
 
 * Елисаветинский женский монастырь, г. Минск
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/minskaya_mitropoliya/svyato-elisavetinskiy-zhenskiy-monastyr-g-minsk/
