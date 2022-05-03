@@ -8,7 +8,8 @@
 
 * Свято-Введенский cтавропигиальный женский монастырь, д. Богуши
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/stavropigialnye-monastyri-/svyato-vvedenskiy-stavropigialnyy-zhenskiy-monastyr-d-bogushi/
-Есть в ЕРИП
+Есть в ЕРИП:
+ЕРИП -> Благотворительность, общественные объединения -> Религиозные объединения -> Свято-Введенский монастырь
 
 * Женский монастырь в честь Вознесения Господня, д. Барколабово
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/bobruyskaya_eparkhiya/svyato-voznesenskiy-barkolabovskiy-monastyr/
@@ -24,7 +25,7 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/borisovskay
 
 * Женский монастырь в честь святого апостола Иоанна Богослова, д. Домашаны 
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/borisovskaya_eparkhiya/svyato-ioanno-bogoslovskiy-zhenskiy-monastyr-d-domashany/
-реквизитов нету, но расположены недалеко от Минска
+УНП 600099191
 ?
 
 * Свято-Успенский Тадулинский женский монастырь, д. Слобода
@@ -67,7 +68,8 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/bobruyskaya
 
 * Во имя Всемилостивого Спаса женский монастырь, г. Кобрин
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/brestskaya_eparkhiya/vo-imya-vsemilostivogo-spasa-zhenskiy-monastyr-g-kobrin/
-Есть в ЕРИП
+Есть в ЕРИП:
+ЕРИП -> Благотворительность, общественные объединения -> Религиозные объединения -> Спасский женский монастырь
 
 * Свято-Успенский женский монастырь, г. Орша
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/vitebskaya_eparkhiya/svyato-uspenskiy-zhenskiy-monastyr-g-orsha/
@@ -150,4 +152,5 @@ http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/mogilevskay
 
 * Елисаветинский женский монастырь, г. Минск
 http://www.monasterium.by/monastyri-belorusskoy-pravoslavnoy-tserkvi/minskaya_mitropoliya/svyato-elisavetinskiy-zhenskiy-monastyr-g-minsk/
-Есть в ЕРИП
+Есть в ЕРИП:
+ЕРИП -> Благотворительность, общественные объединения -> Религиозные объединения -> Свято-Елисаветинский монастырь
