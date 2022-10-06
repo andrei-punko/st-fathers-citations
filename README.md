@@ -1,19 +1,26 @@
 
 # Orthodox Church Saint Fathers citations
 
-## Link to generated site:
-https://andrei-punko.github.io/saint-fathers-citations/
+## Link to generated site
+https://andrei-punko.github.io/saint-fathers-citations
 
 ## Prerequisites
 - JDK 11
 - Maven 3
 
 ## Generator and its preparation
-[Generator](https://github.com/andrei-punko/github-pages-content-generator) to create a site
-by content from text file using templates added as Git submodule to current project
+[Generator](https://github.com/andrei-punko/github-pages-content-generator) to create a site 
+by content from text files using templates added as Git submodule to current project
 
-To build generator - run next command from `github-pages-content-generator` folder:
+### Init and download submodule
 ```
+git submodule init
+git submodule update
+```
+
+### Build generator
+```
+cd github-pages-content-generator
 mvn clean install
 ```
 
