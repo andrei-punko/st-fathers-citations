@@ -5,8 +5,8 @@
 https://andrei-punko.github.io/saint-fathers-citations
 
 ## Prerequisites
-- JDK 11
 - Maven 3
+- JDK 17
 
 ## Generator and its preparation
 [Generator](https://github.com/andrei-punko/github-pages-content-generator) to create a site 
