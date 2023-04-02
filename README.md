@@ -1,6 +1,8 @@
 
 # Orthodox Church Saint Fathers citations
 
+[![pages-build-deployment](https://github.com/andrei-punko/saint-fathers-citations/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/andrei-punko/saint-fathers-citations/actions/workflows/pages/pages-build-deployment)
+
 ## Link to generated site
 https://andrei-punko.github.io/saint-fathers-citations
 
