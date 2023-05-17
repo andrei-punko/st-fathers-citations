@@ -27,11 +27,8 @@ mvn clean install
 ```
 
 ## Update instructions
-- Modify [citations.txt](src/citations.txt) if needed
-- Modify [novij-zavet-o-carstve-nebesnom.txt](src/novij-zavet-o-carstve-nebesnom.txt) if needed
-- Modify [skolko-let.txt](src/skolko-let.txt) if needed
-- Modify [template.html](templates/template.html) and [template-index.html](templates/template-index.html) if needed
-
+- Modify files in /src folder if needed
+- Adjust templates in /templates folder if needed
 - Run [generate.bat](generate.bat)
 - Commit changes to repo
 
