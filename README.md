@@ -3,8 +3,7 @@
 
 [![pages-build-deployment](https://github.com/andrei-punko/saint-fathers-citations/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/andrei-punko/saint-fathers-citations/actions/workflows/pages/pages-build-deployment)
 
-## Link to generated site
-https://andrei-punko.github.io/saint-fathers-citations
+<a href="https://andrei-punko.github.io/saint-fathers-citations"><img src="images/button_generated-site.png" alt="Link to generated site" height="45"/></a>
 
 ## Prerequisites
 - Maven 3
