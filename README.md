@@ -11,7 +11,7 @@
 
 ## Generator and its preparation
 [Generator](https://github.com/andrei-punko/github-pages-content-generator) to create a site 
-by content from text files using templates added as Git submodule to current project
+by content from text files using templates added as Git submodule to a current project
 
 ### Init and download submodule
 ```
@@ -26,9 +26,12 @@ mvn clean install
 ```
 
 ## Update instructions
-- Modify files in /src folder if needed
-- Adjust templates in /templates folder if needed
-- Run [generate.bat](generate.bat)
-- Commit changes to repo
+- Modify files in [src folder](src) to change content
+- Modify templates in [template folder](templates) (only) if you need to change view templates
+- Run [generate.bat](generate.bat). It will delete and regenerate *.html files
+- Use [index.html](index.html) locally or:
+- Commit changes to the repository to deploy them into the web.
+  One minute after, when [GH workflow](https://github.com/andrei-punko/saint-fathers-citations/actions) finished,
+  updated site will be available by original [link](https://andrei-punko.github.io/saint-fathers-citations)
 
-Instead of two last steps could use [generate-n-commit-n-push.bat](generate-n-commit-n-push.bat) script
+Instead of generate & commit steps, you could use [generate-n-commit-n-push.bat](generate-n-commit-n-push.bat) script
