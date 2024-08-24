@@ -6,8 +6,7 @@
 <a href="https://andrei-punko.github.io/saint-fathers-citations"><img src="images/button_generated-site.png" alt="Link to generated site" height="45"/></a>
 
 ## Prerequisites
-- Maven 3
-- JDK 17
+- JDK 21 (to build content-generator)
 
 ## Generator and its preparation
 [Generator](https://github.com/andrei-punko/github-pages-content-generator) to create a site 
@@ -22,7 +21,7 @@ git submodule update
 ### Build generator
 ```
 cd github-pages-content-generator
-mvn clean install
+./mvnw clean install
 ```
 
 ## Update instructions
