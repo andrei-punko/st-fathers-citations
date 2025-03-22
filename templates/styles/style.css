@@ -14,7 +14,7 @@
 
 /* Отступ для основного контента */
 .container {
-    # margin-left: 320px;
+/*    margin-left: 320px;*/
 }
 
 /* Стили для тегов в сайдбаре */
@@ -52,6 +52,7 @@ code {
     background-color: #f8f9fa;
     border-radius: 3px;
     border: 1px solid #dee2e6;
+    color: black;
     line-height: 1.4;
 }
 
