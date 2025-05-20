@@ -1,8 +1,8 @@
 # Orthodox Church Saint Fathers citations
 
-[![pages-build-deployment](https://github.com/andrei-punko/saint-fathers-citations/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/andrei-punko/saint-fathers-citations/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/andrei-punko/st-fathers-citations/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/andrei-punko/st-fathers-citations/actions/workflows/pages/pages-build-deployment)
 
-<a href="https://andrei-punko.github.io/saint-fathers-citations"><img src="images/button_generated-site.png" alt="Link to generated site" height="45"/></a>
+<a href="https://andrei-punko.github.io/st-fathers-citations"><img src="images/button_generated-site.png" alt="Link to generated site" height="45"/></a>
 
 ## Prerequisites
 
@@ -34,7 +34,7 @@ cd github-pages-content-generator
 - Run [generate.bat](generate.bat). It will delete and regenerate *.html files
 - Use [index.html](index.html) locally or:
 - Commit changes to the repository to deploy them into the web.
-  One minute after, when [GH workflow](https://github.com/andrei-punko/saint-fathers-citations/actions) finished,
-  updated site will be available by original [link](https://andrei-punko.github.io/saint-fathers-citations)
+  One minute after, when [GH workflow](https://github.com/andrei-punko/st-fathers-citations/actions) finished,
+  updated site will be available by original [link](https://andrei-punko.github.io/st-fathers-citations)
 
 Instead of generate & commit steps, you could use [generate-n-commit-n-push.bat](generate-n-commit-n-push.bat) script
