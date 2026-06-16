@@ -73,11 +73,10 @@ code {
 /* Промежуточные размеры экрана */
 @media (min-width: 769px) and (max-width: 1024px) {
     #tags-sidebar {
-        width: 260px;
+        padding: 10px;
     }
     
     .container {
-        margin-left: 280px;
-        width: calc(100% - 280px);
+        padding: 10px;
     }
 }
